@@ -2148,3 +2148,9 @@ DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/F
 DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFArmenianRounded.ttf', index=0, name='.SF Armenian Rounded', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
 DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Georgia Italic.ttf', index=0, name='Georgia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
 DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/Users/arjunkumar/miniconda3/envs/netsci/lib/python3.11/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.pyplot:Loaded backend inline version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend inline version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend inline version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend inline version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend inline version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend inline version unknown.
