@@ -1,0 +1,240 @@
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/01/kim-kardashian-odell-beckham-jr-split-better-off-as-friends/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/01/kim-kardashian-odell-beckham-jr-split-better-off-as-friends/ HTTP/1.1" 200 44487
+INFO:__main__:found 4 people in https://www.tmz.com/2024/05/01/kim-kardashian-odell-beckham-jr-split-better-off-as-friends/
+DEBUG:__main__:fetching https://www.tmz.com/2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/ HTTP/1.1" 200 35998
+INFO:__main__:found 1 people in https://www.tmz.com/2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/
+DEBUG:__main__:fetching https://www.tmz.com/2024/04/16/kim-kardashian-poses-in-gold-minidress-in-pics-taken-by-north-west/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/16/kim-kardashian-poses-in-gold-minidress-in-pics-taken-by-north-west/ HTTP/1.1" 200 33982
+INFO:__main__:found 3 people in https://www.tmz.com/2024/04/16/kim-kardashian-poses-in-gold-minidress-in-pics-taken-by-north-west/
+DEBUG:__main__:fetching https://www.tmz.com/2024/07/29/travis-barker-selling-post-crash-boarding-pass-personal-note/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/29/travis-barker-selling-post-crash-boarding-pass-personal-note/ HTTP/1.1" 200 35159
+INFO:__main__:found 2 people in https://www.tmz.com/2024/07/29/travis-barker-selling-post-crash-boarding-pass-personal-note/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/11/north-west-album-kanye-vulture-2-listening-party-elementary-school-dropout/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/11/north-west-album-kanye-vulture-2-listening-party-elementary-school-dropout/ HTTP/1.1" 200 None
+INFO:__main__:found 4 people in https://www.tmz.com/2024/03/11/north-west-album-kanye-vulture-2-listening-party-elementary-school-dropout/
+DEBUG:__main__:fetching https://www.tmz.com/2024/04/19/barstool-sports-dave-portnoy-freaks-out-over-taylor-swift-thank-you-aimee-kim-kardashian-rat/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/19/barstool-sports-dave-portnoy-freaks-out-over-taylor-swift-thank-you-aimee-kim-kardashian-rat/ HTTP/1.1" 200 45357
+INFO:__main__:found 5 people in https://www.tmz.com/2024/04/19/barstool-sports-dave-portnoy-freaks-out-over-taylor-swift-thank-you-aimee-kim-kardashian-rat/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/09/kendall-jenner-enjoying-her-kidless-freedom/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/09/kendall-jenner-enjoying-her-kidless-freedom/ HTTP/1.1" 200 34973
+INFO:__main__:found 22 people in https://www.tmz.com/2024/05/09/kendall-jenner-enjoying-her-kidless-freedom/
+DEBUG:__main__:fetching https://www.tmz.com/2024/02/12/kanye-west-spent-7-million-on-yeezy-super-bowl-commercial-spot-tmz-podcast/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/12/kanye-west-spent-7-million-on-yeezy-super-bowl-commercial-spot-tmz-podcast/ HTTP/1.1" 200 35294
+INFO:__main__:found 11 people in https://www.tmz.com/2024/02/12/kanye-west-spent-7-million-on-yeezy-super-bowl-commercial-spot-tmz-podcast/
+DEBUG:__main__:fetching https://www.tmz.com/2024/02/05/usher-se-convierte-en-la-ultima-estrella-en-asociarse-con-skims-de-kim-kardashian/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/05/usher-se-convierte-en-la-ultima-estrella-en-asociarse-con-skims-de-kim-kardashian/ HTTP/1.1" 200 35584
+INFO:__main__:found 4 people in https://www.tmz.com/2024/02/05/usher-se-convierte-en-la-ultima-estrella-en-asociarse-con-skims-de-kim-kardashian/
+DEBUG:__main__:fetching https://www.tmz.com/2024/06/27/bad-bunny-kendall-jenner-kim-kardashian-jeff-bezos-lauren-sanchez-hangout-greece/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/27/bad-bunny-kendall-jenner-kim-kardashian-jeff-bezos-lauren-sanchez-hangout-greece/ HTTP/1.1" 200 36374
+INFO:__main__:found 5 people in https://www.tmz.com/2024/06/27/bad-bunny-kendall-jenner-kim-kardashian-jeff-bezos-lauren-sanchez-hangout-greece/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/ HTTP/1.1" 200 37674
+INFO:__main__:found 2 people in https://www.tmz.com/2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/08/johnny-manziel-shares-kiss-josie-canseco-new-romance-l-bomb/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/08/johnny-manziel-shares-kiss-josie-canseco-new-romance-l-bomb/ HTTP/1.1" 200 42643
+INFO:__main__:found 7 people in https://www.tmz.com/2024/05/08/johnny-manziel-shares-kiss-josie-canseco-new-romance-l-bomb/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/19/khloe-kardashian-fur-coat-aspen-animal-rights-activist-peta/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/19/khloe-kardashian-fur-coat-aspen-animal-rights-activist-peta/ HTTP/1.1" 200 34136
+INFO:__main__:found 4 people in https://www.tmz.com/2024/01/19/khloe-kardashian-fur-coat-aspen-animal-rights-activist-peta/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/18/north-west-muestra-su-nueva-parrilla-de-diamantes-en-una-selfie-de-cerca/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/18/north-west-muestra-su-nueva-parrilla-de-diamantes-en-una-selfie-de-cerca/ HTTP/1.1" 200 33596
+INFO:__main__:found 5 people in https://www.tmz.com/2024/01/18/north-west-muestra-su-nueva-parrilla-de-diamantes-en-una-selfie-de-cerca/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/05/tom-brady-shuts-down-jeff-ross-over-robert-kraft-massage-joke/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/05/tom-brady-shuts-down-jeff-ross-over-robert-kraft-massage-joke/ HTTP/1.1" 200 47117
+INFO:__main__:found 7 people in https://www.tmz.com/2024/05/05/tom-brady-shuts-down-jeff-ross-over-robert-kraft-massage-joke/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/19/kylie-jenner-son-aire-enjoy-date-monster-truck-rally/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/19/kylie-jenner-son-aire-enjoy-date-monster-truck-rally/ HTTP/1.1" 200 33385
+INFO:__main__:found 1 people in https://www.tmz.com/2024/05/19/kylie-jenner-son-aire-enjoy-date-monster-truck-rally/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/09/selena-gomez-shuts-down-beef-rumors-kylie-jenner-timothee-chalamet-taylor-swift-golden-globes/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/09/selena-gomez-shuts-down-beef-rumors-kylie-jenner-timothee-chalamet-taylor-swift-golden-globes/ HTTP/1.1" 200 37477
+INFO:__main__:found 4 people in https://www.tmz.com/2024/01/09/selena-gomez-shuts-down-beef-rumors-kylie-jenner-timothee-chalamet-taylor-swift-golden-globes/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/13/khloe-kardashian-brings-kids-see-tristan-thompson-play-1st-time/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/13/khloe-kardashian-brings-kids-see-tristan-thompson-play-1st-time/ HTTP/1.1" 200 42736
+INFO:__main__:found 5 people in https://www.tmz.com/2024/05/13/khloe-kardashian-brings-kids-see-tristan-thompson-play-1st-time/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/17/chris-appleton-date-harvad-graduate-normal-lukas-gage-split-divorce/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/17/chris-appleton-date-harvad-graduate-normal-lukas-gage-split-divorce/ HTTP/1.1" 200 37397
+INFO:__main__:found 3 people in https://www.tmz.com/2024/03/17/chris-appleton-date-harvad-graduate-normal-lukas-gage-split-divorce/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/10/stars-with-sunsets-spring-forward-daylight-savings/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/10/stars-with-sunsets-spring-forward-daylight-savings/ HTTP/1.1" 200 29244
+INFO:__main__:found 0 people in https://www.tmz.com/2024/03/10/stars-with-sunsets-spring-forward-daylight-savings/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/06/kris-jenner-met-gala-look-like-bride-kim-kardshian-stuns-fashion/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/06/kris-jenner-met-gala-look-like-bride-kim-kardshian-stuns-fashion/ HTTP/1.1" 200 40887
+INFO:__main__:found 4 people in https://www.tmz.com/2024/05/06/kris-jenner-met-gala-look-like-bride-kim-kardshian-stuns-fashion/
+DEBUG:__main__:fetching https://www.tmz.com/2024/06/10/spencer-dinwiddie-sues-after-over-deal-involving-rare-mustang-ferrari/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/10/spencer-dinwiddie-sues-after-over-deal-involving-rare-mustang-ferrari/ HTTP/1.1" 200 43308
+INFO:__main__:found 0 people in https://www.tmz.com/2024/06/10/spencer-dinwiddie-sues-after-over-deal-involving-rare-mustang-ferrari/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/17/kim-kardashian-la-lakers-game-jennifer-lopez-ben-affleck-bad-bunny/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/17/kim-kardashian-la-lakers-game-jennifer-lopez-ben-affleck-bad-bunny/ HTTP/1.1" 200 34527
+INFO:__main__:found 6 people in https://www.tmz.com/2024/03/17/kim-kardashian-la-lakers-game-jennifer-lopez-ben-affleck-bad-bunny/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-que-sabe-lo-que-hace/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-que-sabe-lo-que-hace/ HTTP/1.1" 200 33660
+INFO:__main__:found 3 people in https://www.tmz.com/2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-que-sabe-lo-que-hace/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/17/bianca-censori-luce-un-conjunto-sexy-y-sin-sujetador-sin-kanye-west/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/17/bianca-censori-luce-un-conjunto-sexy-y-sin-sujetador-sin-kanye-west/ HTTP/1.1" 200 34566
+INFO:__main__:found 5 people in https://www.tmz.com/2024/03/17/bianca-censori-luce-un-conjunto-sexy-y-sin-sujetador-sin-kanye-west/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/20/jessica-biel-haircut-bob-transformation-justin-timberlake/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/20/jessica-biel-haircut-bob-transformation-justin-timberlake/ HTTP/1.1" 200 35054
+INFO:__main__:found 7 people in https://www.tmz.com/2024/05/20/jessica-biel-haircut-bob-transformation-justin-timberlake/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/10/oscars-weekend-parties-celebrities-hollywood-kris-jenner-jeff-bezos/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/10/oscars-weekend-parties-celebrities-hollywood-kris-jenner-jeff-bezos/ HTTP/1.1" 200 36146
+INFO:__main__:found 18 people in https://www.tmz.com/2024/03/10/oscars-weekend-parties-celebrities-hollywood-kris-jenner-jeff-bezos/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/11/kim-kardashian-odell-beckham-jr-flirt-pda-oscars-after-party-video/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/11/kim-kardashian-odell-beckham-jr-flirt-pda-oscars-after-party-video/ HTTP/1.1" 200 39862
+INFO:__main__:found 10 people in https://www.tmz.com/2024/03/11/kim-kardashian-odell-beckham-jr-flirt-pda-oscars-after-party-video/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/09/mob-wife-fashion-trends-hits-hollywood/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/09/mob-wife-fashion-trends-hits-hollywood/ HTTP/1.1" 200 29565
+INFO:__main__:found 0 people in https://www.tmz.com/2024/03/09/mob-wife-fashion-trends-hits-hollywood/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/09/tmz-tv-hot-takes-kim-kardashian-tom-selleck-dana-white-fedex/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/09/tmz-tv-hot-takes-kim-kardashian-tom-selleck-dana-white-fedex/ HTTP/1.1" 200 38771
+INFO:__main__:found 3 people in https://www.tmz.com/2024/05/09/tmz-tv-hot-takes-kim-kardashian-tom-selleck-dana-white-fedex/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/03/ffffgypsy-rose-kim-kardashian-prison-reform-advice/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/03/ffffgypsy-rose-kim-kardashian-prison-reform-advice/ HTTP/1.1" 404 None
+ERROR:__main__:could not fetch https://www.tmz.com/2024/01/03/ffffgypsy-rose-kim-kardashian-prison-reform-advice/: 404 Client Error: Not Found for url: https://www.tmz.com/2024/01/03/ffffgypsy-rose-kim-kardashian-prison-reform-advice/
+DEBUG:__main__:fetching https://www.tmz.com/2024/04/12/caitlyn-jenner-slams-fans-comparing-her-to-oj-simpson-over-fatal-car-wreck/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/12/caitlyn-jenner-slams-fans-comparing-her-to-oj-simpson-over-fatal-car-wreck/ HTTP/1.1" 200 39914
+INFO:__main__:found 2 people in https://www.tmz.com/2024/04/12/caitlyn-jenner-slams-fans-comparing-her-to-oj-simpson-over-fatal-car-wreck/
+DEBUG:__main__:fetching https://www.tmz.com/2024/06/27/kim-kardashian-channels-marilyn-monroe-mode-photo-shoot-leopard-bikini/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/27/kim-kardashian-channels-marilyn-monroe-mode-photo-shoot-leopard-bikini/ HTTP/1.1" 200 36255
+INFO:__main__:found 5 people in https://www.tmz.com/2024/06/27/kim-kardashian-channels-marilyn-monroe-mode-photo-shoot-leopard-bikini/
+DEBUG:__main__:fetching https://www.tmz.com/2024/07/29/fffftravis-barker-selling-post-crash-boarding-pass-personal-note/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/29/fffftravis-barker-selling-post-crash-boarding-pass-personal-note/ HTTP/1.1" 404 None
+ERROR:__main__:could not fetch https://www.tmz.com/2024/07/29/fffftravis-barker-selling-post-crash-boarding-pass-personal-note/: 404 Client Error: Not Found for url: https://www.tmz.com/2024/07/29/fffftravis-barker-selling-post-crash-boarding-pass-personal-note/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/08/selena-gomez-gossip-taylor-swift-kylie-jenner-timothee-chalamet-golden-globes/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/08/selena-gomez-gossip-taylor-swift-kylie-jenner-timothee-chalamet-golden-globes/ HTTP/1.1" 200 41235
+INFO:__main__:found 5 people in https://www.tmz.com/2024/01/08/selena-gomez-gossip-taylor-swift-kylie-jenner-timothee-chalamet-golden-globes/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/11/selena-gomez-hace-un-rapido-regreso-a-instagram-despues-de-tomarse-un-descanso/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/11/selena-gomez-hace-un-rapido-regreso-a-instagram-despues-de-tomarse-un-descanso/ HTTP/1.1" 200 33962
+INFO:__main__:found 6 people in https://www.tmz.com/2024/01/11/selena-gomez-hace-un-rapido-regreso-a-instagram-despues-de-tomarse-un-descanso/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/10/kanye-west-sued-assault-battery-autograph-seeker/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/10/kanye-west-sued-assault-battery-autograph-seeker/ HTTP/1.1" 200 38582
+INFO:__main__:found 2 people in https://www.tmz.com/2024/01/10/kanye-west-sued-assault-battery-autograph-seeker/
+DEBUG:__main__:fetching https://www.tmz.com/2024/04/04/stevie-j-diddy-celebrities-party-birthday-federal-investigation-raids/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/04/stevie-j-diddy-celebrities-party-birthday-federal-investigation-raids/ HTTP/1.1" 200 38827
+INFO:__main__:found 21 people in https://www.tmz.com/2024/04/04/stevie-j-diddy-celebrities-party-birthday-federal-investigation-raids/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/30/avril-lavigne-sale-a-patinar-con-el-cantante-country-de-tiktok-nate-smith/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/30/avril-lavigne-sale-a-patinar-con-el-cantante-country-de-tiktok-nate-smith/ HTTP/1.1" 200 35697
+INFO:__main__:found 8 people in https://www.tmz.com/2024/01/30/avril-lavigne-sale-a-patinar-con-el-cantante-country-de-tiktok-nate-smith/
+DEBUG:__main__:fetching https://www.tmz.com/2024/04/10/kim-kardashian-chats-cozy-kris-humphries-former-friend-lakers-game/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/10/kim-kardashian-chats-cozy-kris-humphries-former-friend-lakers-game/ HTTP/1.1" 200 36916
+INFO:__main__:found 5 people in https://www.tmz.com/2024/04/10/kim-kardashian-chats-cozy-kris-humphries-former-friend-lakers-game/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/25/unc-basketball-player-paxson-wojcik-kylie-jenner-dating-rumor-not-true/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/25/unc-basketball-player-paxson-wojcik-kylie-jenner-dating-rumor-not-true/ HTTP/1.1" 200 38470
+INFO:__main__:found 1 people in https://www.tmz.com/2024/03/25/unc-basketball-player-paxson-wojcik-kylie-jenner-dating-rumor-not-true/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/07/netflix-edited-out-kim-kardashian-getting-booed-tom-brady-roast/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/07/netflix-edited-out-kim-kardashian-getting-booed-tom-brady-roast/ HTTP/1.1" 200 37350
+INFO:__main__:found 7 people in https://www.tmz.com/2024/05/07/netflix-edited-out-kim-kardashian-getting-booed-tom-brady-roast/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/19/khloe-kardashian-fur-coat-aspen-animal-rights-activist-peta/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/19/khloe-kardashian-fur-coat-aspen-animal-rights-activist-peta/ HTTP/1.1" 200 34136
+INFO:__main__:found 4 people in https://www.tmz.com/2024/01/19/khloe-kardashian-fur-coat-aspen-animal-rights-activist-peta/
+DEBUG:__main__:fetching https://www.tmz.com/2024/07/05/sexy-stars-boats-feeling-little-nauti/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/05/sexy-stars-boats-feeling-little-nauti/ HTTP/1.1" 200 30475
+INFO:__main__:found 3 people in https://www.tmz.com/2024/07/05/sexy-stars-boats-feeling-little-nauti/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/07/kendall-jenner-bad-bunny-reunite-met-gala-looking-cozy-party-hotel-overnight/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/07/kendall-jenner-bad-bunny-reunite-met-gala-looking-cozy-party-hotel-overnight/ HTTP/1.1" 200 38947
+INFO:__main__:found 3 people in https://www.tmz.com/2024/05/07/kendall-jenner-bad-bunny-reunite-met-gala-looking-cozy-party-hotel-overnight/
+DEBUG:__main__:fetching https://www.tmz.com/2024/04/14/estrellas-en-el-dia-2-de-coachella-las-celebridades-se-duplican-en-el-desierto/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/14/estrellas-en-el-dia-2-de-coachella-las-celebridades-se-duplican-en-el-desierto/ HTTP/1.1" 200 35310
+INFO:__main__:found 0 people in https://www.tmz.com/2024/04/14/estrellas-en-el-dia-2-de-coachella-las-celebridades-se-duplican-en-el-desierto/
+DEBUG:__main__:fetching https://www.tmz.com/2024/07/12/kim-kardashian-brutal-finger-injury-new-hulu-episode-teaser-doctor/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/07/12/kim-kardashian-brutal-finger-injury-new-hulu-episode-teaser-doctor/ HTTP/1.1" 200 34439
+INFO:__main__:found 2 people in https://www.tmz.com/2024/07/12/kim-kardashian-brutal-finger-injury-new-hulu-episode-teaser-doctor/
+DEBUG:__main__:fetching https://www.tmz.com/2024/02/11/kim-kardashian-y-odell-beckham-jr-se-reencuentra-en-las-vegas-entre-rumores-de-noviazgo/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/11/kim-kardashian-y-odell-beckham-jr-se-reencuentra-en-las-vegas-entre-rumores-de-noviazgo/ HTTP/1.1" 200 37493
+INFO:__main__:found 9 people in https://www.tmz.com/2024/02/11/kim-kardashian-y-odell-beckham-jr-se-reencuentra-en-las-vegas-entre-rumores-de-noviazgo/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/ HTTP/1.1" 200 37674
+INFO:__main__:found 2 people in https://www.tmz.com/2024/05/23/kourtney-kardashian-surgery-fetal-emergency-rocky-baby/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/26/ridley-scott-caught-in-frustration-amid-raid-at-diddy-la-area-home/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/26/ridley-scott-caught-in-frustration-amid-raid-at-diddy-la-area-home/ HTTP/1.1" 200 43339
+INFO:__main__:found 3 people in https://www.tmz.com/2024/03/26/ridley-scott-caught-in-frustration-amid-raid-at-diddy-la-area-home/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/26/bloquean-el-paso-a-ridley-scott-durante-el-allanamiento-a-diddy-en-l-a/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/26/bloquean-el-paso-a-ridley-scott-durante-el-allanamiento-a-diddy-en-l-a/ HTTP/1.1" 200 43411
+INFO:__main__:found 2 people in https://www.tmz.com/2024/03/26/bloquean-el-paso-a-ridley-scott-durante-el-allanamiento-a-diddy-en-l-a/
+DEBUG:__main__:fetching https://www.tmz.com/2024/04/14/camron-oj-simpson-caitlyn-jenner-good-riddance-princess-diana-blast-dead-dies/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/14/camron-oj-simpson-caitlyn-jenner-good-riddance-princess-diana-blast-dead-dies/ HTTP/1.1" 200 37902
+INFO:__main__:found 4 people in https://www.tmz.com/2024/04/14/camron-oj-simpson-caitlyn-jenner-good-riddance-princess-diana-blast-dead-dies/
+DEBUG:__main__:fetching https://www.tmz.com/2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-que-sabe-lo-que-hace/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-que-sabe-lo-que-hace/ HTTP/1.1" 200 33660
+INFO:__main__:found 3 people in https://www.tmz.com/2024/03/03/hans-zimmer-elogia-las-dotes-musicales-de-timothee-chalamet-que-sabe-lo-que-hace/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/25/hollywood-ultimate-summer-showdown-whod-you-rather/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/25/hollywood-ultimate-summer-showdown-whod-you-rather/ HTTP/1.1" 200 32355
+INFO:__main__:found 1 people in https://www.tmz.com/2024/05/25/hollywood-ultimate-summer-showdown-whod-you-rather/
+DEBUG:__main__:fetching https://www.tmz.com/2024/04/25/kim-kardashian-return-white-house-criminal-justice-reform-kamala-harris/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/04/25/kim-kardashian-return-white-house-criminal-justice-reform-kamala-harris/ HTTP/1.1" 200 42496
+INFO:__main__:found 4 people in https://www.tmz.com/2024/04/25/kim-kardashian-return-white-house-criminal-justice-reform-kamala-harris/
+DEBUG:__main__:fetching https://www.tmz.com/2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/ HTTP/1.1" 200 35998
+INFO:__main__:found 1 people in https://www.tmz.com/2024/02/03/la-paternidad-de-kanye-west-y-kim-kardashian-es-analizada-por-expertos-en-psicologia/
+DEBUG:__main__:fetching https://www.tmz.com/2024/01/31/kim-y-kanye-se-reunen-para-cenar-con-north-y-sus-amigos-llevan-camisetas-de-vultures/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/01/31/kim-y-kanye-se-reunen-para-cenar-con-north-y-sus-amigos-llevan-camisetas-de-vultures/ HTTP/1.1" 200 41668
+INFO:__main__:found 5 people in https://www.tmz.com/2024/01/31/kim-y-kanye-se-reunen-para-cenar-con-north-y-sus-amigos-llevan-camisetas-de-vultures/
+DEBUG:__main__:fetching https://www.tmz.com/2024/05/29/kim-kardashian-actors-on-actors-american-horror-story-jon-hamm-insult/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/05/29/kim-kardashian-actors-on-actors-american-horror-story-jon-hamm-insult/ HTTP/1.1" 200 36717
+INFO:__main__:found 8 people in https://www.tmz.com/2024/05/29/kim-kardashian-actors-on-actors-american-horror-story-jon-hamm-insult/
+DEBUG:__main__:fetching https://www.tmz.com/2024/02/03/tmz-investigates-kanye-west-kim-kardashian-analyze-psychology-experts/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/02/03/tmz-investigates-kanye-west-kim-kardashian-analyze-psychology-experts/ HTTP/1.1" 200 37853
+INFO:__main__:found 4 people in https://www.tmz.com/2024/02/03/tmz-investigates-kanye-west-kim-kardashian-analyze-psychology-experts/
+DEBUG:__main__:fetching https://www.tmz.com/2024/06/06/kim-kardashian-ivanka-trump-lauren-sanchez-reality-show-besties-birthday-dinner/
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.tmz.com:443
+DEBUG:urllib3.connectionpool:https://www.tmz.com:443 "GET /2024/06/06/kim-kardashian-ivanka-trump-lauren-sanchez-reality-show-besties-birthday-dinner/ HTTP/1.1" 200 37103
+INFO:__main__:found 8 people in https://www.tmz.com/2024/06/06/kim-kardashian-ivanka-trump-lauren-sanchez-reality-show-besties-birthday-dinner/
